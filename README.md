@@ -21,6 +21,8 @@ An intelligent study companion that helps students understand concepts, summariz
 - Google Gemini AI API
 - PyPDF2, python-docx (File processing)
 
+- ## LIVE DEMO :- https://ai-powered-study-buddy-iqct65j3hhrawjrnpe6h9u.streamlit.app/
+
 ## 🚀 Installation
 
 1. Clone the repository:
