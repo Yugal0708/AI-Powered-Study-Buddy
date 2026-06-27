@@ -1,4 +1,4 @@
-# 📚 AI-Powered Study Buddy
+# 📚 AI-Powered Study Buddy👨‍💻
 
 An intelligent study companion that helps students understand concepts, summarize notes, generate quizzes, and create flashcards using AI.
 
